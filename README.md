@@ -37,9 +37,9 @@ The objective of this project was to add a custom text color picker for the Koli
 I worked with the mentors from Kolibri team to implement the new feature, having weekly meetings to discuss the progress and the next steps. Also, after I implemented the MVP of the feature, I got suggestions to improve the user interface from Kolibri design team as well. Following PRs were made to the Kolibri repository as a part of the project:
 
 ### Pull Requests
-- [10877: Create custom theme container for epub renderer [GSoC '23]](https://github.com/learningequality/kolibri/pull/10877) (Draft PR to discuss the implementation)
+- [10877: Create custom theme container for epub renderer [GSoC '23]](https://github.com/learningequality/kolibri/pull/10877) (Closed - Draft PR to discuss the implementation)
 - [11041: Add customized themes feature into EPUB renderer](https://github.com/learningequality/kolibri/pull/11041) (Merged)
-- [11156: Epub viewer settings side bar redesigned](https://github.com/learningequality/kolibri/pull/11156) (On review)
+- [11156: Epub viewer settings side bar redesigned](https://github.com/learningequality/kolibri/pull/11156) (Merged)
 
 ## Future Work
 - New design for the UI is only partially implemented. Since it was suggested as an extra step, it can be fully implemented in the future.
